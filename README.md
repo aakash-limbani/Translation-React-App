@@ -18,7 +18,7 @@
   <p align="center"> 
     <br />&#10023;
     <a href="#Demo">View Demo</a>   &#10023;  
-    <a href="https://github.com/limbaniakash/Translation-React-App/issues">Report Bug</a>    &#10023;
+    <a href="https://github.com/aakash-limbani/Translation-React-App/issues">Report Bug</a>    &#10023;
     <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
   </p>
 
@@ -63,13 +63,13 @@ This project was built using React, Rest API, JavaScript and CSS. It is a web ap
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/limbaniakash/Translation-React-App) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/aakash-limbani/Translation-React-App) or just clone the project using this command. 
 
 
 ```
 Using HTTPS
 
-# git clone  https://github.com/limbaniakash/Translation-React-App.git
+# git clone  https://github.com/aakash-limbani/Translation-React-App.git
 ```
 
 + Open terminal on your workspace with
